@@ -38,7 +38,7 @@ function About() {
                 <div className="team-member">
                   <div className="team-social-media">
                     <img src="/assets/IMG-20250129-WA0014.jpg" alt="Team Member" />
-                    <h3>Swaryaletsang</h3>
+                    <h3>Oarabetse Abby Tau</h3>
                     <p>Founder of A.S</p>
                     <p>Back-End Developer</p>
                     <a href="https://www.linkedin.com/in/oarabetse">
